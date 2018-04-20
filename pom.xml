@@ -15,6 +15,11 @@
 		<relativePath />
 	</parent>
 
+	<modules>
+		<module>freedom-study-spring-cloud-eureka</module>
+		<module>freedom-study-spring-cloud-eureka-client</module>
+	</modules>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -76,8 +81,5 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
-	
-	<modules>
-		<module>freedom-study-spring-cloud-eureka</module>
-	</modules>
+
 </project>
