@@ -18,6 +18,7 @@
 	<modules>
 		<module>freedom-study-spring-cloud-eureka</module>
 		<module>freedom-study-spring-cloud-eureka-client</module>
+		<module>freedom-study-spring-cloud-eureka-cluster</module>
 	</modules>
 
 	<properties>
